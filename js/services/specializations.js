@@ -5,7 +5,7 @@ app.service('specializationsService', function($http, $q) {
   var text = {};
   var deferred = $q.defer();
 
-  $http.get('js/json/specializations.json').then(function(data) {
+  $http.get('../json/specializations.json').then(function(data) {
       deferred.resolve(data);
   });
 

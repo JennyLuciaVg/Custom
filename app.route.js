@@ -9,8 +9,8 @@ app.config(['$routeProvider',function($routeProvider){
   })
   .when('/About-Us',{
     templateUrl: "/views/whoWeAre.html",
-    controller: "whoController",
-    controllerAs: "who"
+    controller: "aboutController",
+    controllerAs: "about"
   })
   .when('/Who-We-Are',{
     templateUrl: "/views/whoWeAre.html",

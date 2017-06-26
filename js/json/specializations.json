@@ -1,38 +1,21 @@
-[
-  {
-    "text" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "class" : "normal",
-    "img" : "coffee-love.jpg",
-    "title" : "SPECIALIZATIONS !"
-  },{
-    "text" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "class" : "odd",
-    "img" : "happy-face.jpg",
-    "title" : "The Best We Have"
-  },{
-    "text" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "class" : "normal",
-    "img" : "coffee-love.jpg",
-    "title" : "Never Sleep Again !"
-  },{
-    "text" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "class" : "odd",
-    "img" : "happy-face.jpg",
-    "title" : "The Best We Have"
-  },{
-    "text" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "class" : "normal",
-    "img" : "coffee-love.jpg",
-    "title" : "Best Coffee Ever !"
-  },{
-    "text" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "class" : "odd",
-    "img" : "happy-face.jpg",
-    "title" : "The Best We Have"
-  },{
-    "text" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "class" : "normal",
-    "img" : "coffee-love.jpg",
-    "title" : "Never Sleep Again !"
-  }
-]
+{
+  "specializationList":
+    [
+      {
+        "text" : "Coffee drinks are made by brewing hot water (or much less commonly, cold water) with ground coffee beans. The brewing is either done slowly by drip or filter, French press or cafetière, percolator, etc., or done very quickly under pressure by an espresso machine, where the coffee is termed 'espresso'—slow-brewed coffees are generally regarded simply as 'coffee'. All coffee drinks are based on either coffee or espresso, in different strengths.",
+        "class" : "normal",
+        "img" : "coffee-love.jpg",
+        "title" : "Coffee Of Course"
+      },{
+        "text" : "Our exclusive FlavorLock ™ technology uses a special one-way valve. Through it, the carbon dioxide liberated by the freshly roasted coffee beans can leave the hermetic container, but it does not allow the entrance of the oxygen that would take away its flavor. All Starbucks coffee sold in our 225g and 450g FlavorLock ™ containers is hermetically packaged within two hours of its roasting so that it stays fresh until you use it.",
+        "class" : "odd",
+        "img" : "happy-face.jpg",
+        "title" : "The Best We Have"
+      },{
+        "text" : "When tasting the coffees, the question we ask is: which coffees from a given location best represent the perfect intersection of climate and qualified horticulture of the place? We look for unmistakable regional flavors, which the French vintners would call goût de terroir, the 'flavor of the place'.",
+        "class" : "normal",
+        "img" : "coffee-love.jpg",
+        "title" : "Never Sleep Again !"
+      }
+    ]
+};

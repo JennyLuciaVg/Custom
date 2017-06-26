@@ -1,38 +1,21 @@
-[
-  {
-    "text" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "class" : "normal",
-    "img" : "coffee-love.jpg",
-    "title" : "WHO WE ARE Coffee Ever !"
-  },{
-    "text" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "class" : "odd",
-    "img" : "happy-face.jpg",
-    "title" : "The Best We Have"
-  },{
-    "text" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "class" : "normal",
-    "img" : "coffee-love.jpg",
-    "title" : "Never Sleep Again !"
-  },{
-    "text" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "class" : "odd",
-    "img" : "happy-face.jpg",
-    "title" : "The Best We Have"
-  },{
-    "text" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "class" : "normal",
-    "img" : "coffee-love.jpg",
-    "title" : "Best Coffee Ever !"
-  },{
-    "text" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "class" : "odd",
-    "img" : "happy-face.jpg",
-    "title" : "The Best We Have"
-  },{
-    "text" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "class" : "normal",
-    "img" : "coffee-love.jpg",
-    "title" : "Never Sleep Again !"
-  }
-]
+{
+  "whoList":
+    [
+      {
+        "text" : "Our coffee shops have become reference points for coffee lovers all over the world. But why do they insist on coming to Custom Coffee? Because they know they receive a genuine service, a cozy atmosphere and a magnificent cup of roasted coffee prepared with care by expert hands.",
+        "class" : "normal",
+        "img" : "bestclass.jpg",
+        "title" : "We Are Who We Are"
+      },{
+        "text" : "We are passionate about our work as a coffee supplier, as well as everything related to the enjoyment of a rewarding experience in one of our stores. We also offer a selection of top quality teas, high-end pastries and other delicious alternatives to please the palate. Without forgetting that the music that is heard in our stores is chosen for its artistic quality and its attractiveness.",
+        "class" : "odd",
+        "img" : "passionate.jpg",
+        "title" : "The Best In Class"
+      },{
+        "text" : "Coffee drinks are made by brewing hot water (or much less commonly, cold water) with ground coffee beans. The brewing is either done slowly by drip or filter, French press or cafetière, percolator, etc., or done very quickly under pressure by an espresso machine, where the coffee is termed 'espresso'—slow-brewed coffees are generally regarded simply as 'coffee'. All coffee drinks are based on either coffee or espresso, in different strengths; some drinks have milk or cream added, some use steamed milk, cream, plant based milk, or foamed milk, some have flavorings or sweeteners, some have alcoholic liqueurs added, some are combinations of coffee with espresso or tea.",
+        "class" : "normal",
+        "img" : "all-coffee.jpg",
+        "title" : "All Kinds Of Coffee"
+      }
+    ]
+};
