@@ -1,5 +1,5 @@
 var app = angular.module('customPage');
 app.controller('contactController',function(){
   var about = this;
-  //about.selected = 3;
+  about.selected = 3;
 });

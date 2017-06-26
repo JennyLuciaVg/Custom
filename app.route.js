@@ -8,9 +8,9 @@ app.config(['$routeProvider',function($routeProvider){
     controllerAs: "home"
   })
   .when('/About-Us',{
-    templateUrl: "/views/aboutUs.html",
-    controller: "aboutController",
-    controllerAs: "about"
+    templateUrl: "/views/whoWeAre.html",
+    controller: "whoController",
+    controllerAs: "who"
   })
   .when('/Who-We-Are',{
     templateUrl: "/views/whoWeAre.html",
