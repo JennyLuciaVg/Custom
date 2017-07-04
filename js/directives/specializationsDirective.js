@@ -4,7 +4,7 @@ app.directive('specializationsDirective', function(specializationsService){
   return {
     scope: {
     },
-    restrict: "E",
+    restrict: "AE",
     templateUrl: 'js/templates/specializationsDirective.html',
     controller : function ($scope,$timeout){
 

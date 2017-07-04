@@ -18,7 +18,8 @@ app.directive('whoDirective', function(whoService){
       td.textList = {};
       var promise = whoService.getText();
       promise.then(function(data) {
-          td.textList = data.data;
+        console.log("data", data);
+          td.textList = data.data.whoList;
       });
 
       $scope.td = td;
